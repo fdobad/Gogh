@@ -5,8 +5,8 @@ ColorBackground = #2D353B -> #333C43
 # Manually install everforest for xfce4-terminal
 ```
 mkdir -p ~/.local/share/xfce4/terminal/colorscheme
-cp themes/everforest-dark ~/.local/share/xfce4/terminal/colorscheme
-cp themes/everforest-light ~/.local/share/xfce4/terminal/colorscheme
+cp everforest-dark ~/.local/share/xfce4/terminal/colorscheme
+cp everforest-light ~/.local/share/xfce4/terminal/colorscheme
 ```
 
 <h1 align="center">
